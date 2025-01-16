@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ndavarpanah/github-packages-guide/issues"
   },
-  "homepage": "https://github.com/ndavarpanah/github-packages-guide#readme"
+  "homepage": "https://github.com/ndavarpanah/github-packages-guide#readme",
+  "publishConfig": {
+    "@ndavarpanah:registry": "https://npm.pkg.github.com"
+  }
 }
